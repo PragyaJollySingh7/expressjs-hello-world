@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'HelloWorldExpressinJS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F41176F12484DAFAB5E0AE3E12CB3EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_435B76A04CDD4ACD8D799ED81C7E20B0 }}
           package: .
